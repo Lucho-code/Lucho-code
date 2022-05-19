@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lucho-code
 - 👀 I’m interested in the world of programing and tech
-- 🌱 I’m currently learning Python, C++
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python, Django, C++, PowerBuilder
+- 💞️ I’m looking to be part of a project to improve my programing experience 
 - 📫 How to reach me ...
 
 <!---
