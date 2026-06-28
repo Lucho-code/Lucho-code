@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Lucio Rostagno 👋</h1>
 
 <p align="center">
-  Ingeniero en movimiento de suelos · Desarrollador en formación · Rosario, Argentina
+  Ingeniero en movimiento de suelos · Desarrollador en información · Armstrong, Santa Fe, Argentina
 </p>
 
 ---
